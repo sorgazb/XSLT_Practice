@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liga>
+    <equipo nombre="Real Madrid">
+        <puntos>76</puntos>
+        <goles_a_favor>85</goles_a_favor>
+        <goles_en_contra>30</goles_en_contra>
+        <partidosganados>24</partidosganados>
+        <partidosempatados>4</partidosempatados>
+        <partidosperdidos>10</partidosperdidos>
+    </equipo>
+    <equipo nombre="Barcelona">
+        <puntos>72</puntos>
+        <goles_a_favor>80</goles_a_favor>
+        <goles_en_contra>35</goles_en_contra>
+        <partidosganados>23</partidosganados>
+        <partidosempatados>3</partidosempatados>
+        <partidosperdidos>12</partidosperdidos>
+    </equipo>
+    <equipo nombre="Atlético de Madrid">
+        <puntos>68</puntos>
+        <goles_a_favor>65</goles_a_favor>
+        <goles_en_contra>40</goles_en_contra>
+        <partidosganados>20</partidosganados>
+        <partidosempatados>8</partidosempatados>
+        <partidosperdidos>10</partidosperdidos>
+    </equipo>
+    <equipo nombre="Sevilla">
+        <puntos>64</puntos>
+        <goles_a_favor>95</goles_a_favor>
+        <goles_en_contra>45</goles_en_contra>
+        <partidosganados>19</partidosganados>
+        <partidosempatados>7</partidosempatados>
+        <partidosperdidos>12</partidosperdidos>
+    </equipo>
+    <equipo nombre="Real Sociedad">
+        <puntos>60</puntos>
+        <goles_a_favor>50</goles_a_favor>
+        <goles_en_contra>40</goles_en_contra>
+        <partidosganados>19</partidosganados>
+        <partidosempatados>3</partidosempatados>
+        <partidosperdidos>16</partidosperdidos>
+    </equipo>
+    <equipo nombre="Villarreal">
+        <puntos>58</puntos>
+        <goles_a_favor>45</goles_a_favor>
+        <goles_en_contra>35</goles_en_contra>
+        <partidosganados>17</partidosganados>
+        <partidosempatados>7</partidosempatados>
+        <partidosperdidos>14</partidosperdidos>
+    </equipo>
+    <equipo nombre="Real Betis">
+        <puntos>56</puntos>
+        <goles_a_favor>40</goles_a_favor>
+        <goles_en_contra>40</goles_en_contra>
+        <partidosganados>18</partidosganados>
+        <partidosempatados>2</partidosempatados>
+        <partidosperdidos>18</partidosperdidos>
+    </equipo>
+    <equipo nombre="Athletic Club">
+        <puntos>54</puntos>
+        <goles_a_favor>35</goles_a_favor>
+        <goles_en_contra>45</goles_en_contra>
+        <partidosganados>15</partidosganados>
+        <partidosempatados>9</partidosempatados>
+        <partidosperdidos>14</partidosperdidos>
+    </equipo>
+    <equipo nombre="Celta de Vigo">
+        <puntos>52</puntos>
+        <goles_a_favor>30</goles_a_favor>
+        <goles_en_contra>55</goles_en_contra>
+        <partidosganados>15</partidosganados>
+        <partidosempatados>7</partidosempatados>
+        <partidosperdidos>16</partidosperdidos>
+    </equipo>
+    <equipo nombre="Granada">
+        <puntos>50</puntos>
+        <goles_a_favor>25</goles_a_favor>
+        <goles_en_contra>50</goles_en_contra>
+        <partidosganados>16</partidosganados>
+        <partidosempatados>2</partidosempatados>
+        <partidosperdidos>20</partidosperdidos>
+    </equipo>
+    <equipo nombre="Eibar">
+        <puntos>48</puntos>
+        <goles_a_favor>20</goles_a_favor>
+        <goles_en_contra>60</goles_en_contra>
+        <partidosganados>10</partidosganados>
+        <partidosempatados>18</partidosempatados>
+        <partidosperdidos>10</partidosperdidos>
+    </equipo>
+    <equipo nombre="Valencia">
+        <puntos>45</puntos>
+        <goles_a_favor>15</goles_a_favor>
+        <goles_en_contra>65</goles_en_contra>
+        <partidosganados>14</partidosganados>
+        <partidosempatados>3</partidosempatados>
+        <partidosperdidos>21</partidosperdidos>
+    </equipo>
+    <equipo nombre="Levante">
+        <puntos>44</puntos>
+        <goles_a_favor>10</goles_a_favor>
+        <goles_en_contra>70</goles_en_contra>
+        <partidosganados>12</partidosganados>
+        <partidosempatados>8</partidosempatados>
+        <partidosperdidos>18</partidosperdidos>
+    </equipo>
+    <equipo nombre="Alavés">
+        <puntos>42</puntos>
+        <goles_a_favor>10</goles_a_favor>
+        <goles_en_contra>70</goles_en_contra>
+        <partidosganados>12</partidosganados>
+        <partidosempatados>6</partidosempatados>
+        <partidosperdidos>20</partidosperdidos>
+    </equipo>
+    <equipo nombre="Valladolid">
+        <puntos>40</puntos>
+        <goles_a_favor>15</goles_a_favor>
+        <goles_en_contra>75</goles_en_contra>
+        <partidosganados>10</partidosganados>
+        <partidosempatados>10</partidosempatados>
+        <partidosperdidos>18</partidosperdidos>
+    </equipo>
+    <equipo nombre="Getafe">
+        <puntos>38</puntos>
+        <goles_a_favor>20</goles_a_favor>
+        <goles_en_contra>80</goles_en_contra>
+        <partidosganados>10</partidosganados>
+        <partidosempatados>8</partidosempatados>
+        <partidosperdidos>20</partidosperdidos>
+    </equipo>
+    <equipo nombre="Huesca">
+        <puntos>36</puntos>
+        <goles_a_favor>25</goles_a_favor>
+        <goles_en_contra>85</goles_en_contra>
+        <partidosganados>11</partidosganados>
+        <partidosempatados>3</partidosempatados>
+        <partidosperdidos>24</partidosperdidos>
+    </equipo>
+    <equipo nombre="Elche">
+        <puntos>35</puntos>
+        <goles_a_favor>30</goles_a_favor>
+        <goles_en_contra>90</goles_en_contra>
+        <partidosganados>10</partidosganados>
+        <partidosempatados>5</partidosempatados>
+        <partidosperdidos>23</partidosperdidos>
+    </equipo>
+    <equipo nombre="Cádiz">
+        <puntos>34</puntos>
+        <goles_a_favor>35</goles_a_favor>
+        <goles_en_contra>95</goles_en_contra>
+        <partidosganados>10</partidosganados>
+        <partidosempatados>4</partidosempatados>
+        <partidosperdidos>24</partidosperdidos>
+    </equipo>
+    <equipo nombre="Osasuna">
+        <puntos>22</puntos>
+        <goles_a_favor>40</goles_a_favor>
+        <goles_en_contra>100</goles_en_contra>
+        <partidosganados>6</partidosganados>
+        <partidosempatados>4</partidosempatados>
+        <partidosperdidos>28</partidosperdidos>
+    </equipo>
+</liga>
